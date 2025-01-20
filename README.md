@@ -1,11 +1,5 @@
 ## E-COMMERCE-NE Shop-BN
 
-[![Reviewed by Hound](https://img.shields.io/badge/Reviewed_by-Hound-8E64B0.svg)](https://houndci.com)
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/atlp-rwanda/e-commerce-NE Shop-bn/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/atlp-rwanda/e-commerce-NE-Shop-bn/tree/main)
-[![Coverage Status](https://coveralls.io/repos/github/atlp-rwanda/e-commerce-NE-Shop-bn/badge.svg)](https://coveralls.io/github/atlp-rwanda/e-commerce-NE-Shop-bn)
-[![Maintainability](https://api.codeclimate.com/v1/badges/e655d22a6de886a9651c/maintainability)](https://codeclimate.com/github/atlp-rwanda/e-commerce-NE-Shop-bn/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/e655d22a6de886a9651c/test_coverage)](https://codeclimate.com/github/atlp-rwanda/e-commerce-NE-Shop-bn/test_coverage)
-
 This repository houses the backend application of an e-commerce website developed by NE Shop `Bit-Crafters`
 
 # Description
