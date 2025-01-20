@@ -7,7 +7,8 @@
     "esModuleInterop": true,
     "sourceMap": true,
     "noImplicitAny": true,
-    "allowJs": true
+    "allowJs": true,
+    "skipLibCheck": true
   },
-  "include": ["src/**/*", "index.ts", "test"]
+  "include": ["src/**/*", "index.ts"]
 }
