@@ -16,7 +16,7 @@ services:
     #   - db-data:var/lib/postgres
 
   app-production:
-    image: e-commerce-NE Shop-bn
+    image: ne-shop-bn
     depends_on:
       - database
 
@@ -40,17 +40,17 @@ services:
     command: npm run start
 
     volumes:
-      - .:/e-commerce-NE Shop-bn
+      - .:/ne-shop-bn
 
   app-development:
-    image: e-commerce-NE Shop-bn-dev
+    image: ne-shop-bn-dev
     depends_on:
       - database
     build:
       context: .
       target: development
     volumes:
-      - .:/e-commerce-NE Shop-bn
+      - .:/ne-shop-bn
 
     env_file: .env
 
