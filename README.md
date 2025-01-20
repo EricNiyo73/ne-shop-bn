@@ -1,6 +1,6 @@
 ## E-COMMERCE-NE Shop-BN
 
-This repository houses the backend application of an e-commerce website developed by NE Shop `Bit-Crafters`
+This repository houses the backend application of an e-commerce website developed by NE Shop
 
 # Description
 
